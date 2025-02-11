@@ -44,4 +44,4 @@ document.querySelector('.again').addEventListener('click', () => {
   document.querySelector('.check').disabled = false;
 });
 
-console.log(secretNumber);
+// console.log(secretNumber);
